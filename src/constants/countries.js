@@ -25,5 +25,5 @@ export const NEWS_CATEGORIES = {
 
 export const API_CONFIG = {
   BASE_URL: 'https://newsapi.org/v2',
-  API_KEY: '5d5446192eeb45b795e163c7ad13f4a8'
+  API_KEY: 'b5d6ad078d13440fb3abe7ba0759ad72'
 };
